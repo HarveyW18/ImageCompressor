@@ -44,7 +44,7 @@ Auteur(s)
 Contributeur(s)
 -------------
 
-- Harvey Wonga (HarveyW18)
+- HarveyW18
 
 Licence
 -------
