@@ -19,7 +19,6 @@ Clonez le dépôt et installez les dépendances nécessaires.
 
 git clone https://github.com/HarveyW18/ImageCompressor.git
 cd ImageCompressor
-pip install -r requirements.txt
 
 Utilisation
 -----------
@@ -37,11 +36,15 @@ Assurez-vous que les fichiers d'icône et d'image se trouvent dans le dossier `A
 - `Assets/icon.ico` : Icône de l'application
 - `Assets/parislo.png` : Image affichée dans l'application
 
-Contributeurs
+Auteur(s)
 -------------
 
 - Andy Musquet
-- Harvey Wonga (HarveyW18)
+
+Contributeur(s)
+-------------
+
+- HarveyW18
 
 Licence
 -------
