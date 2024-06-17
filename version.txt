@@ -24,6 +24,8 @@ VSVersionInfo(
         StringStruct('LegalCopyright', '© Andy Musquet. Tous droits réservés.'),
         StringStruct('OriginalFilename', 'compression.exe'),
         StringStruct('ProductName', 'Compression d\'Images'),
+        StringStruct('Owner', 'système'),
+        StringStruct('Attributes', 'A')],
         StringStruct('ProductVersion', '1.0.0.0')])
       ]), 
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
