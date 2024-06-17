@@ -199,9 +199,10 @@ def main():
     global root
     root = tk.Tk()
     root.title("Compression d'Images")
-    root.geometry("795x700")
-    root.minsize(795, 700)
+    root.geometry("810x700")
+    root.minsize(810, 700)
     root.configure(bg="#D6E8FE")
+    root.resizable(False, False)
 
     icon_path = os.path.join(base_path, 'Assets', 'icon.ico')
     root.iconbitmap(icon_path)
