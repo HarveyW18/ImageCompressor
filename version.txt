@@ -26,7 +26,7 @@ VSVersionInfo(
         StringStruct('ProductName', 'Compression d\'Images'),
         StringStruct('Owner', 'système'),
         StringStruct('Attributes', 'A')],
-        StringStruct('ProductVersion', '1.0.0.0')])
+        StringStruct('ProductVersion', '1.2')])
       ]), 
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
   ]
