@@ -11,23 +11,25 @@ VSVersionInfo(
     fileType=0x1,
     subtype=0x0,
     date=(0, 0)
-    ),
+  ),
   kids=[
     StringFileInfo(
       [
-      StringTable(
-        '040904b0',
-        [StringStruct('CompanyName', 'Andy Musquet'),
-        StringStruct('FileDescription', 'Compression d\'Images, mairie de Paris. Projet Stage'),
-        StringStruct('FileVersion', '1.0.0.0'),
-        StringStruct('InternalName', 'Compression'),
-        StringStruct('LegalCopyright', '© Andy Musquet. Tous droits réservés.'),
-        StringStruct('OriginalFilename', 'compression.exe'),
-        StringStruct('ProductName', 'Compression d\'Images'),
-        StringStruct('Owner', 'système'),
-        StringStruct('Attributes', 'A')],
-        StringStruct('ProductVersion', '1.2')])
-      ]), 
+        StringTable(
+          '040904b0',
+          [
+            StringStruct('CompanyName', 'Andy Musquet'),
+            StringStruct('FileDescription', 'Compression d\'Images, mairie de Paris. Projet Stage'),
+            StringStruct('FileVersion', '1.0.0.0'),
+            StringStruct('InternalName', 'Compression'),
+            StringStruct('LegalCopyright', '© Andy Musquet. Tous droits réservés.'),
+            StringStruct('OriginalFilename', 'compression.exe'),
+            StringStruct('ProductName', 'Compression d\'Images'),
+            StringStruct('ProductVersion', '1.2')
+          ]
+        )
+      ]
+    ), 
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
   ]
 )

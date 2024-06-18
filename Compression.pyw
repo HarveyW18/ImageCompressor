@@ -199,8 +199,8 @@ def main():
     global root
     root = tk.Tk()
     root.title("Compression d'Images")
-    root.geometry("810x700")
-    root.minsize(810, 700)
+    root.geometry("875x700")
+    root.minsize(875, 700)
     root.configure(bg="#D6E8FE")
     root.resizable(False, False)
 
